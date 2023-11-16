@@ -21,3 +21,7 @@ Lista wyponktowana:
   * punkt 2.1
 
 [etykieta]{} - link
+
+
+unsigned - liczba nieujemna
+enum - 
